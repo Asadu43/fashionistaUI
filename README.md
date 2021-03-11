@@ -17,19 +17,19 @@ App in which
 7 When item is Select then Show Search Button Otherwise Hidden
 
 # Login Page
-![](screenshot/Login.png)
+<p align="center"><img width="300" src="https://github.com/Asadu43/fashionistaUI/blob/main/screenshot/Login.png"></p>
 
 # Sign Up Page
-![](screenshot/signup.png)
+<p align="center"><img width="300" src="https://github.com/Asadu43/fashionistaUI/blob/main/screenshot/signup.png"></p>
 
 # Home Page
-![](screenshot/homescreen.png)
+<p align="center"><img width="300" src="https://github.com/Asadu43/fashionistaUI/blob/main/screenshot/homescreen.png"></p>
 
 # Drawer
-![](screenshot/drawer.png)
+<p align="center"><img width="300" src="https://github.com/Asadu43/fashionistaUI/blob/main/screenshot/drawer.png"></p>
 
 # API Data
-![](screenshot/apidata.png)
+<p align="center"><img width="300" src="https://github.com/Asadu43/fashionistaUI/blob/main/screenshot/apidata.png"></p>
 
 # Select Item Show Button
-![](screenshot/apidatawithbutton.png)
+<p align="center"><img width="300" src="https://github.com/Asadu43/fashionistaUI/blob/main/screenshot/apidatawithbutton.png"></p>
