@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420219436413",
+    "project_id": "flutterfashionista",
+    "storage_bucket": "flutterfashionista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420219436413:android:d168d59d218e5359fce014",
+        "android_client_info": {
+          "package_name": "com.backtracker.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420219436413-2dvlrp1qa9g90h7eu19qepci2ut024i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQNNXjVw1qunxOom5UvaFiNITc06jJYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420219436413-2dvlrp1qa9g90h7eu19qepci2ut024i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

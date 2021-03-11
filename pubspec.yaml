@@ -1,0 +1,31 @@
+---
+name: flutter_login_ui
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  flutter_form_builder: ^4.2.0
+  google_fonts: ^1.1.2
+  firebase_auth: ^0.20.1
+  firebase_core: ^0.7.0
+  rive: ^0.6.8
+  lottie: ^0.7.0+1
+  animate_my_text: ^0.0.2
+  dio: ^3.0.10
+  cached_network_image: ^2.5.0-rc
+  auto_size_text: ^2.1.0
+  provider: ^4.3.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/
