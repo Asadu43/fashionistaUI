@@ -1,16 +1,14 @@
-# flutter_login_ui
+#Fashionista UI Design 
 
-A new Flutter project.
+App in which  
 
-## Getting Started
+1 Login and Regisration Page
+2 Home Page with Drawer and BottomNavigationBar
+3 Home Page Show Animated Text 
+4 Use DIO package for Rest API
+5 Fetch Data from API in API DATA BottomBarNavigation Bar
+6 Use Provider Package to Select Each Item
+7 When item is Select then Show Search Button Otherwise Hidden
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Login Page
+![](screenshot\Login.png)
