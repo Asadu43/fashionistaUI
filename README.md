@@ -11,4 +11,4 @@ App in which
 7 When item is Select then Show Search Button Otherwise Hidden
 
 # Login Page
-![](screenshot\Login.png)
+![](screenshot/Login.png)
